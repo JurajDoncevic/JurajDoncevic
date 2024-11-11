@@ -1,4 +1,4 @@
-TA at the University of Zagreb, Faculty of Electrical Engineering and Computing, Department of Applied Computing ([UNIZG-FER-ZPR](https://www.fer.unizg.hr/en/about/structure_and_management/departments/department_of_applied_computing)).
+Senior TA at the University of Zagreb, Faculty of Electrical Engineering and Computing, Department of Applied Computing ([UNIZG-FER-ZPR](https://www.fer.unizg.hr/en/about/structure_and_management/departments/department_of_applied_computing)).
 
 Completed my PhD with the thesis titled: "Extension of the mediator-wrapper architecture for heterogeneous data source integration by adding a mask". You can find the related repo here ➡️ [Janus](https://github.com/JurajDoncevic/Janus)
 
